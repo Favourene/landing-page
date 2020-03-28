@@ -111,7 +111,7 @@ section .content{
     height: 100vh;
     position: absolute;
     left: 0;
-    background: rgb(255,2,65);
+    background: rgb(150, 12, 47);
     padding: 100px 350px 100px 100px;
     display: flex;
     justify-content: center;
@@ -150,11 +150,11 @@ section .content{
     padding: 100px;
 }
 #shop .content{
-    background: gold;
+    background: rgb(121, 103, 6);
     text-align: center;
 }
 #contact .content{
-    background: rgb(0,191,255);
+    background: rgb(4, 64, 83);
 }
 #shop .images{
     width: 100%;
